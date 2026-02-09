@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentence-transformers
+faiss-cpu
+pdfplumber
+beautifulsoup4
+requests
+scikit-learn
+numpy
